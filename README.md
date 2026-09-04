@@ -42,8 +42,15 @@
 
 ---
 
+### 🚀 Active Project Highlights
+- **AI & Apps:** `ray-ai`, `tia`, `tia-app`, `nyuro`
+- **Security & Agents:** `ghost-agent`, `ray-guard`, `CyberRecon`
+
+---
+
 ### 📡 Connect with Me
 
 <p>
-  <a href="mailto:thizenray@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Thirayy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
